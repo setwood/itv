@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Knowledge/Git/BBox/app/src/main/res/layout/fragment_user.xml" value="0.43559928443649376" />
+        <entry key="..\:/Knowledge/Git/source-3988b4e/app/src/main/res/layout/dialog_api.xml" value="0.407871198568873" />
+        <entry key="..\:/Knowledge/Git/source-3988b4e/app/src/main/res/layout/dialog_api_history.xml" value="0.407871198568873" />
+        <entry key="..\:/Knowledge/Git/source-3988b4e/app/src/main/res/layout/dialog_store_api.xml" value="0.407871198568873" />
+        <entry key="..\:/Knowledge/Git/source-3988b4e/app/src/main/res/layout/fragment_model.xml" value="0.36482412060301506" />
+        <entry key="..\:/Knowledge/Git/source-3988b4e/app/src/main/res/layout/fragment_user.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="Android API 30 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
